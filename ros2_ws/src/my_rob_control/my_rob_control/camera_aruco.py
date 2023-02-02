@@ -112,7 +112,7 @@ class MinimalPublisher(Node):
             cmd.linear.x=5.0
 
          if cv2.waitKey(1) & 0xFF == ord('q'):
-            return
+            return None
          self.cmd_vel_pub_.publish(cmd)
 
         
