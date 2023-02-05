@@ -1,4 +1,4 @@
-# TurtleSim Control with ArUco----------------------- 
+# TurtleSim Control with ArUco----------------------- Watch the MP4 video for visual understanding
 Steps to use the node and the Repo</br>
 ----------------------------------
 Clone the Repo</br>
